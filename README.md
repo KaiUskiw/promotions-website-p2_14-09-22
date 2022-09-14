@@ -1,1 +1,20 @@
-# promotions-website-p2_14-09-22
+# bit7 
+
+
+## Reminders 
+- nadda
+
+
+
+
+---
+
+### To do list 
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+---
